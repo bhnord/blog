@@ -21,6 +21,7 @@ buymeacoffee = { }
 verification = { }
 rssnext = { }
 advertisement = { }
+mainSections = ["cooking", "baking"]
 
 [header]
 layout = "basic"
