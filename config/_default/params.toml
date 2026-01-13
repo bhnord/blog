@@ -1,5 +1,5 @@
 colorScheme = "blowfish"
-defaultAppearance = "light"
+defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableA11y = false
 enableSearch = true
@@ -21,7 +21,7 @@ buymeacoffee = { }
 verification = { }
 rssnext = { }
 advertisement = { }
-mainSections = ["cooking", "baking"]
+mainSections = [ "cooking", "baking" ]
 
 [header]
 layout = "basic"
@@ -34,7 +34,7 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "profile"
+layout = "page"
 showRecent = true
 showRecentItems = 5
 showMoreLink = false
