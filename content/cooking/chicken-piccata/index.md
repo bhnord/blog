@@ -18,3 +18,5 @@ When making the mixture for the chicken breading, make sure to salt very generou
 ![final result](./featured.jpg)
 
 ## Recipe
+
+https://mealie-pub.bhnord.com/g/home/r/chicken-piccata-recipe

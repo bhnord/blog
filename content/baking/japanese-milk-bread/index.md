@@ -29,3 +29,5 @@ proof it once more and bake.
 ![final result](./featured.jpg)
 
 ## Recipe
+
+https://mealie-pub.bhnord.com/g/home/r/japanese-milk-bread

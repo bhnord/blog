@@ -37,3 +37,5 @@ Serve with rice :D
 ![final result](./featured.jpg)
 
 ## Recipe
+
+https://mealie-pub.bhnord.com/g/home/r/authentic-mapo-tofu-ma-po-dou-fu

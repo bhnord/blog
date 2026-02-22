@@ -68,3 +68,5 @@ Once it's finished baking, it should be lightly browned on the top
 ![final result](./featured.jpg)
 
 ## Recipe
+
+https://mealie-pub.bhnord.com/g/home/r/jiggly-japanese-cheesecake
